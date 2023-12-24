@@ -1,3 +1,2 @@
-#vzhMapEditor
 
 this "editor" if to edit an integer array for raycast engine where is 1 is wall where is 0 is empty for example and you can use the output file for this...
